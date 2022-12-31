@@ -1,1 +1,1 @@
-Assignment 1 For C Programaming
+Assignment 1 For C Programming
