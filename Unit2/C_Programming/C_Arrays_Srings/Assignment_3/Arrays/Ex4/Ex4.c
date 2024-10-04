@@ -46,6 +46,11 @@ int main(void){
 	scanf("%d", &location);
 
 
+	if(location>n || location<0){
+		printf("\nInvalid location!");
+		return 1;
+	}
+
 	for(int i=n-1;i>=location;--i){
 		arr[i+1]=arr[i];
 	}
