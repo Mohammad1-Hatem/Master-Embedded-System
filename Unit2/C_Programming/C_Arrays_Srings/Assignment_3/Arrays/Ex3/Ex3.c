@@ -10,8 +10,8 @@
 int main(void){
 
 	int n;
-	float num,sum=0;
-	float avg;
+	float avg, num, sum=0;
+
 
 	setbuf(stdout,NULL);
 
