@@ -6,13 +6,6 @@
  */
 
 
-/*
- * Ex3.c
- *
- *  Created on: Oct 4, 2024
- *      Author: Mo_7atem
- */
-
 #include <stdio.h>
 
 int main(void){
